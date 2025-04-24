@@ -11,7 +11,7 @@ Airometer is an app that can track and summarise the air quality around you or a
 
 ## Download
 
- <a href="https://drive.google.com/drive/folders/1uG59lQfDSPf6ZqGs3DNBZDkQ2Tk-zbyI?usp=sharing">Click on me to get the application</a>
+ <a href="https://drive.google.com/file/d/1-N38pMX1u-8caxdgUxU1drWpI90Qng7N/view?usp=sharing">Click on me to get the application</a>
  <br>In case the application doesn't load properly, make sure to turn on location and relaunch it.
  
  ## Features
