@@ -1,13 +1,6 @@
-# Airometer
-
-### 3rd place🥉 Winner at Hack You Way Hackathon organised by IIC TMSL ✨
-Airometer is an app that can track and summarise the air quality around you or anywhere round the globe.
-
 [![made-with-flutter](https://img.shields.io/badge/Made%20with-Flutter-1f425f.svg)](https://flutter.dev/)
 
 ### Don't forget to :star: the repo
-
-[![GitHub stars](https://img.shields.io/github/stars/Air-Quality-Index/Airometer.svg?style=social&label=Star)](https://github.com//Air-Quality-Index/Airometer) ![GitHub forks](https://img.shields.io/github/forks/Air-Quality-Index/Airometer.svg?style=social&label=Forks) ![GitHub followers](https://img.shields.io/github/followers/Air-Quality-Index.svg?style=social&label=Follow)
 
 ## Download
 
