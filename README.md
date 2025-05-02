@@ -36,7 +36,7 @@ Check it out yourself :)
 2. Fetch latest source code from master branch.
 
 ```
-git clone https://github.com/Air-Quality-Index/Airometer.git
+git clone https://github.com/Aishwarya2701/Air-Quality-App.git
 ```
 
 3. Generate and add api key
@@ -53,9 +53,4 @@ git clone https://github.com/Air-Quality-Index/Airometer.git
 flutter pub get
 flutter run
 ```
-
-## Contribute
-
-We are not accepting outside contributions for this project. However, a feedback would greatly
-contribute to the purpose of the project. Please leave a feedback after using it :)
 
