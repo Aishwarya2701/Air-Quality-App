@@ -42,7 +42,7 @@ git clone https://github.com/Aishwarya2701/Air-Quality-App.git
 3. Generate and add api key
 
 - Sign in to [OpenWeatherMap.org](https://openweathermap.org/) to retrieve your own API Key.
-- In the path ``` airometer\lib\api ``` create file ``` api_key.dart ```.
+- In the path ``` Air-Quality-App\lib\api ``` create file ``` api_key.dart ```.
 - In the file ``` api_key.dart ``` paste the code ```const apiKey="API_KEY";```.
 - Replace the text ```API_KEY``` with your own api key.
 
